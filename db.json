@@ -1,0 +1,125 @@
+{
+
+  "data": [
+
+    {
+
+      "id": "295",
+
+      "type": "devices",
+
+      "attributes": {
+
+        "device_title": "samsung Galaxy S2",
+
+        "last_login": "2019-02-25 11:16:57",
+
+        "updated_at": "2019-02-22 16:43:53",
+
+        "available_relationships": [
+
+          "audits"
+
+        ]
+
+      },
+
+      "links": {
+
+        "self": "/devices/295"
+
+      }
+
+    },
+	{
+
+      "id": "296",
+
+      "type": "devices",
+
+      "attributes": {
+
+        "device_title": "samsung SM-G955F",
+
+        "last_login": "2019-02-25 11:16:57",
+
+        "updated_at": "2019-02-22 16:43:53",
+
+        "available_relationships": [
+
+          "audits"
+
+        ]
+
+      },
+
+      "links": {
+
+        "self": "/devices/296"
+
+      }
+
+    },
+	{
+
+      "id": "299",
+
+      "type": "devices",
+
+      "attributes": {
+
+        "device_title": "One plus 6",
+
+        "last_login": "2019-02-28 11:16:57",
+
+        "updated_at": "2019-02-22 16:43:53",
+
+        "available_relationships": [
+
+          "audits"
+
+        ]
+
+      },
+
+      "links": {
+
+        "self": "/devices/299"
+
+      }
+
+    },
+
+    {
+
+      "id": "326",
+
+      "type": "devices",
+
+      "attributes": {
+
+        "device_title": "iPhone 6s",
+
+        "last_login": "2019-02-28 17:19:40",
+
+        "updated_at": "2019-02-28 17:19:40",
+
+        "available_relationships": [
+
+          "audits"
+
+        ]
+
+      },
+
+      "links": {
+
+        "self": "/devices/326"
+
+      }
+
+    }
+
+  ]
+
+}
